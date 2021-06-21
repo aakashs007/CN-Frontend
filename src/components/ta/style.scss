@@ -1,0 +1,45 @@
+.doubt-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #c3cfd9;
+    border: 2px solid #778896;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ans-cont {
+    background: #dfe6ee;
+    border: 2px solid #c3cfd9;
+    padding-bottom: 3rem !important;
+}
+
+.esc-btn {
+    color: #6558f5;
+    background: white;
+    border-radius: 4px;
+    border:2px solid #c8c3fb;
+    padding:0.5rem 1rem; 
+}
+
+.ta-box {
+    background: #c3cfd9;
+    border: 2px solid #778896;
+    padding: 0 1.5rem;
+    height: 11rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ta-box-text {
+    position: absolute;
+    bottom: 5px;
+}
+
+.ta-report {
+    background: white;
+    border: 2px solid #c3cfd9;
+    font-weight: 500;
+    padding: 1.5rem;
+}

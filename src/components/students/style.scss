@@ -1,0 +1,54 @@
+.doubt-cont {
+    background: #dfe6ee;
+    border: 2px solid #c3cfd9;   
+    padding: 3em 0; 
+}
+
+.ask-doubt {
+    background: #6558f5;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: 1px solid #6558f5;
+}
+
+.inp-elm {
+    height: 50px !important;
+}
+
+.inp-elm:focus {
+    border: 2px solid #6558f5 !important;
+    box-shadow: none !important;
+}
+
+.box {
+    background: #c3cfd9;
+    border: 2px solid #778896;   
+    border-bottom: 2px solid #9eaeba;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.res-btn {
+    padding: 5px 3rem;
+    background: #8dd7d0;
+    border: 2px solid #28af9f;
+}
+
+.comment {
+    background: #dfe6ee;
+    border: 2px solid #a6b5c0;
+}
+
+.cmt-btn {
+    color: #6558f5;
+    background: white;
+    border-radius: 4px;
+    border:2px solid #6558f5;
+    padding: 0 25px;
+}
